@@ -1,5 +1,7 @@
 # Intro to CSIL
 
+CSIL, or the "Computer Science Instructional Laboratory", is located on the first floor of the John Crerar Library. Home to a multitude of machines and services, CSIL and its staff exist to increase the accessibility to technology for all University of Chicago students, faculty, and affiliates. 
+
 ## Objectives
 
 This minicourse will explain: 
@@ -14,7 +16,14 @@ This minicourse will explain:
 
 ## Layout of CSIL
 
-![alt text][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hq8kPfccuPA9zK2AaHBc6XmDBzB0Us7zVPPTiPGwhq79cmaI "Map of CSIL"]
+![alt text][csil map]
+
+Locations of Interest
+
+- The Tutor Desk
+- CSIL Labs 1-5
+- Bathrooms
+- Handicap desks and entrances
 
 ## The CSIL Tutors
 
@@ -35,3 +44,6 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 ## How to: Equipment Rentals 
 
 ## How to: Persist Mac Files
+
+
+[csil map]: img link "Map of CSIL"
