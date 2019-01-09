@@ -14,7 +14,7 @@ This minicourse will explain:
 
 ## Layout of CSIL
 
-![alt text][  "Map of CSIL"]
+![alt text][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hq8kPfccuPA9zK2AaHBc6XmDBzB0Us7zVPPTiPGwhq79cmaI "Map of CSIL"]
 
 ## The CSIL Tutors
 
