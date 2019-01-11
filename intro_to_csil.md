@@ -28,6 +28,15 @@ Locations of Interest
 - Handicap desks and entrances
 - Fire alarm, extinguisher, and AED locations
 
+#### Kiosks
+
+Monitor displays that convey the following information:
+
+- Lab Reservation schedules
+- Tutors on Duty
+- Lab announcements (eg. special closing times/dates, construction notices)
+- CS Dept Talk dates, times, and locations
+
 ## The CSIL Tutors
 
 The CSIL Tutors are a group of student-workers headed by Bill Sterner. They are your go-to resource for any CSIL related questions or concerns. During lab hours, at least one should *always* be present at the CSIL tutor desk. Their responsbilities include, but are not limited to:
@@ -45,6 +54,17 @@ The CSIL Tutors are a group of student-workers headed by Bill Sterner. They are 
 - Maintaining lab servers and backups
 
 CSIL Tutors are **not** required to aid lab users with their programming assignments beyond helping them to have their needed software installed. That said, almost all of the tutors have some background in computer science. If they're familiar with the work and asked nicely enough, they are often willing to help.
+
+### What we can't/don't do
+
+- Increase your Linux machine quotas (but we can request it for you)
+- Manage your cs or uchicago accounts
+- Manage anything in the basement, 2nd, or 3rd floors of Crerar
+- Maintain the campus network and wifi
+- Library rentals and returns
+- Open or close the labs earlier/later without prior approval
+- Printing (**printers are in the basement!**)
+
 
 ## Lab Policies and Etiquette
 
@@ -125,3 +145,15 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 1. Go to the Tutor Desk and say you'd like to return your item
 2. Fill our your information on the iPad
 3. Retrieve your ID from a tutor
+
+## How to: Lab Reservations
+
+Labs reservations may only be made by UChicago students, faculty, or affiliates.  
+Reservations can only be approved by Dr. Bill Sterner (*bill@uchicago.edu*).  
+Reservations for a lab can be made for any of the following reasons:
+
+- Class lab session (approved by University prior to the quarter)
+- Office Hours
+- Minicourses (tutor-led)
+- UChicago-affiliated event
+- Specially approved by Bill
