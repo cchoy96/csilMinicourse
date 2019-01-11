@@ -100,6 +100,13 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 
 ## How to: Equipment Rentals 
 
+#### Available
+
+- Headphones
+- Macbook Chargers
+- Assorted Cables (micro usb, lightning, C, hdmi, vga, etc.)
+- Assorted Adapters (hdmi-vga, lightning-ethernet, etc.)
+
 #### Policies
 
 - If you lose it or break it, you buy it.
@@ -118,7 +125,3 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 1. Go to the Tutor Desk and say you'd like to return your item
 2. Fill our your information on the iPad
 3. Retrieve your ID from a tutor
-
-## How to: Persist Mac Files
-
-TODO: Image Meisters
