@@ -88,6 +88,12 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 
 ## How to: Use the Lab Machines
 
+1. Set down your belongings
+2. Wipe down your keyboard, mouse, and station if needed
+  - Stations are only cleaned by tutors twice per week. 
+  - Cleaning supplies can be found at the Tutor Desk.
+3. 
+
 ## How to: Equipment Rentals 
 
 ## How to: Persist Mac Files
