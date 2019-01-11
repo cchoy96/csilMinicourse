@@ -113,6 +113,7 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 2. Wipe down your keyboard, mouse, and station if needed
   - Stations are only cleaned by tutors twice per week. 
   - Cleaning supplies can be found at the Tutor Desk.
+  - Replacement mouse pads available for particularly grimy ones.
 3. Login to the machine
   - Linux: use your CNET ID and password. You must be registered with the CS Department or Techstaff to use these.
   - Macs: use your CNET ID and password or username "visitor" with no password.
