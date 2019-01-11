@@ -110,8 +110,7 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 #### Checking out
 
 1. Go to the Tutor Desk and ask a tutor to check out an item
-2. Fill out your information on the iPad
-  - the item code can be found on the item itself
+2. Fill out your information on the iPad (the item code can be found on the item itself)
 3. Hand your ID over to the tutor. 
 
 #### Returning
