@@ -17,6 +17,7 @@ This minicourse will explain:
 ## Layout of CSIL
 
 ![alt text][csil map]
+[csil map]: img link "Map of CSIL"
 
 Locations of Interest
 
@@ -92,11 +93,33 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
 2. Wipe down your keyboard, mouse, and station if needed
   - Stations are only cleaned by tutors twice per week. 
   - Cleaning supplies can be found at the Tutor Desk.
-3. 
+3. Login to the machine
+  - Linux: use your CNET ID and password. You must be registered with the CS Department or Techstaff to use these.
+  - Macs: use your CNET ID and password or username "visitor" with no password.
+  - If you're having issues, try another machine or contact a tutor.
 
 ## How to: Equipment Rentals 
 
+#### Policies
+
+- If you lose it or break it, you buy it.
+- You are responsible for ensuring an item works upon withdrawal.
+- Your ID will be kept by a Tutor while you've borrowed an item.
+- Equipment may not be taken out of the Crerar building.
+
+#### Checking out
+
+1. Go to the Tutor Desk and ask a tutor to check out an item
+2. Fill out your information on the iPad
+  - the item code can be found on the item itself
+3. Hand your ID over to the tutor. 
+
+#### Returning
+
+1. Go to the Tutor Desk and say you'd like to return your item
+2. Fill our your information on the iPad
+3. Retrieve your ID from a tutor
+
 ## How to: Persist Mac Files
 
-
-[csil map]: img link "Map of CSIL"
+TODO: Image Meisters
