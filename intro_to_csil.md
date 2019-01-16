@@ -15,8 +15,8 @@ This minicourse will explain:
 
 ## Layout of CSIL
 
-![Map of CSIL]
-(csil-layout.png)
+![Map of CSIL][csil map]  
+[csil map]: https://github.com/cchoy96/csilMinicourse/raw/master/csil-layout.png
 
 Locations of Interest
 
