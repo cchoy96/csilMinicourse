@@ -18,14 +18,19 @@ This minicourse will explain:
 ![Map of CSIL][csil map]  
 [csil map]: https://github.com/cchoy96/csilMinicourse/raw/master/csil-layout.png
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vICyxzy"><a href="//imgur.com/vICyxzy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img src="https://imgur.com/a/vICyxzy" alt="layout of csil">
+
 Locations of Interest
 
 - The Tutor Desk
 - CSIL Labs 1-5
+- Kiosks
 - Bathrooms
 - Entrances and emergency exits
-- Handicap desks and entrances
-- Fire alarm, extinguisher, and AED locations
+- ADA desks and entrances
+- Fire alarm, extinguisher
 
 #### Kiosks
 
