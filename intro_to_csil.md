@@ -15,13 +15,7 @@ This minicourse will explain:
 
 ## Layout of CSIL
 
-![Map of CSIL][csil map]  
-[csil map]: https://github.com/cchoy96/csilMinicourse/raw/master/csil-layout.png
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vICyxzy"><a href="//imgur.com/vICyxzy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-  
-  
-<img src="https://imgur.com/a/vICyxzy" alt="layout of csil">  
+![Map of CSIL]["./csil-layout.png"]  
 
 <img src="./csil-layout.png" alt="layout of csil">
 
