@@ -12,7 +12,6 @@ This minicourse will explain:
 4. The CSIL Website
 5. How to: Use the Lab Machines
 6. How to: Equipment rentals
-7. How to: Persist Mac Files
 
 ## Layout of CSIL
 
