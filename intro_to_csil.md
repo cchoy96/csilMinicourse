@@ -11,7 +11,9 @@ This minicourse will explain:
 3. Lab Policies and Etiquette
 4. The CSIL Website
 5. How to: Use the Lab Machines
-6. How to: Equipment rentals
+6. How to: Equipment Loans
+
+This course should take approximately 30 minutes.
 
 ## Layout of CSIL
 
@@ -44,7 +46,7 @@ The CSIL Tutors are a group of student-workers headed by Bill Sterner. They are 
 - Opening and Closing the labs
 - Cleaning the lab desks and machines
 - Ensuring machine accessibility
-- Renting out equipment 
+- Loan out equipment 
 - Stocking whiteboards
 - Taking down or putting up the Hufcor Walls
 - Resolving lab projector issues
@@ -61,7 +63,7 @@ CSIL Tutors are **not** required to aid lab users with their programming assignm
 - Manage your cs or uchicago accounts
 - Manage anything in the basement, 2nd, or 3rd floors of Crerar
 - Maintain the campus network and wifi
-- Library rentals and returns
+- Library loans and returns
 - Open or close the labs earlier/later without prior approval
 - Printing (**printers are in the basement!**)
 
@@ -119,7 +121,7 @@ The CSIL Website can be found at [csil.cs.uchicago.edu](https://csil.cs.uchicago
   - Macs: use your CNET ID and password or username "visitor" with no password.
   - If you're having issues, try another machine or contact a tutor.
 
-## How to: Equipment Rentals 
+## How to: Equipment Loans  
 
 #### Available
 
