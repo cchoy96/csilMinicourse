@@ -15,10 +15,7 @@ This minicourse will explain:
 
 ## Layout of CSIL
 
-![Map of CSIL]["./csil-layout.png"]  
-
 <img src="./csil-layout.png" alt="layout of csil">
-
 
 Locations of Interest
 
@@ -29,6 +26,7 @@ Locations of Interest
 - Entrances and emergency exits
 - ADA desks and entrances
 - Fire alarm, extinguisher
+- MADD = Media Arts and Design
 
 #### Kiosks
 
