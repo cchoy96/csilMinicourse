@@ -28,7 +28,7 @@ Locations of Interest
 - Entrances and emergency exits
 - ADA desks and entrances
 - Fire alarm, extinguisher
-- MADD = Media Arts and Design
+- MADD = Media Arts Data and Design
 
 #### Kiosks
 
